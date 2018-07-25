@@ -27,7 +27,7 @@ $ bower install sass-easing --save
 }
 ```
 
-##Easing Functions
+## Easing Functions
 
 The following easing functions are available:
 
